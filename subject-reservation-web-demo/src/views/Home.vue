@@ -2,8 +2,7 @@
   <div class="home">
     <br />
     <p style="font-family: Roboto; font-size: 18pt">
-      SIT Subject Reservation Web By Pluem for new branch
-    </p>
+      SIT Subject Reservation Web on netlify
     <br />
     <v-row justify="center" align="top" no-gutters style="height: 150px">
       <v-col v-for="subject in subjectList" :key="subject.subjectId" cols="3" class="pa-2">
