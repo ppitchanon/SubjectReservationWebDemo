@@ -2,7 +2,7 @@
   <div class="home">
     <br />
     <p style="font-family: Roboto; font-size: 18pt">
-      SIT Subject Reservation Web By Pluem for new branch
+      SIT Subject Reservation Web By Pluem for new Branch v2
     </p>
     <br />
     <v-row justify="center" align="top" no-gutters style="height: 150px">
